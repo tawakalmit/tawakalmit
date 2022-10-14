@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/mikbaltawakal29/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://mikbaltwakal.cf">
+    <a href="https://www.mikbaltawakal.cf/">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Spotify Badge"/>
     </a>
   </div>
