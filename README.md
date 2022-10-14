@@ -1,6 +1,7 @@
 <h3 align="left">Hello there, I'm Ikbal</h3>
 <div align="center">
-  <img src="https://www.mikbaltawakal.cf/_next/image?url=%2F14.png&w=256&q=75" width="200em"/>
+  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQHN3UZ7ggFPCQ/profile-displaybackgroundimage-shrink_350_1400/0/1654612921528?e=1671062400&v=beta&t=smBvvvN4NbNnhvv6wUcpyj5Gre6-uRb3VCIEDE_7Tjw"/>
+  <br>
   <div>
     <a href="https://www.linkedin.com/in/mikbaltawakal29/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
