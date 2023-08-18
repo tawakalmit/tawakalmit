@@ -21,7 +21,6 @@
     <li>Currently working as Frontend Developer</li>
     <li>Recently learning Laravel to build my full stack web</li>
     <li>Love to slicing design to code using Vanilla CSS or Tailwind CSS</li>
-    <li>Start from memorizing the code until understand the flow and the fundamental</li>
     <li>Work for passion, I do what I love</li>
     <li>Stay inspired : Read, follow, learn, design and develop.</li>
     <li>Failure is good. Learn out from it.</li>
